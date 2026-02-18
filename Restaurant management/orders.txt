@@ -1,0 +1,10 @@
+
+📝 New Order (UNPAID) - Saksham khera (2828393)
+Burger × 1 = ₹120
+GST: ₹6.0
+Total: ₹126.0
+----------------------------------------
+💰 PAYMENT SUCCESS - Saksham khera (2828393)
+Amount Paid: ₹126.0
+Mode: UPI
+========================================
